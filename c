@@ -4,19 +4,20 @@ switch(c)
 {
 case1:
 {
-printf("Btech cse")
-printf("AUB")
+printf("Btech cse");
+
 }
 case2:
 {
-printf("Aiml")
+printf("Aiml");
+printf("MCA");
 }
 case3:
 {
-printf("ECE")
+printf("ECE");
 }
 case4:
 {
-printf("mechnical")
+printf("mechnical");
 }
 }
