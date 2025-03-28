@@ -19,6 +19,7 @@ case4:
 {
 printf("mechnical")
 printf("elecetric")
+printf("Bse")
 }
 
 
