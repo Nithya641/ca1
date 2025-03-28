@@ -5,6 +5,7 @@ switch(c)
 case1:
 {
 printf("Btech cse")
+printf("AUB")
 }
 case2:
 {
