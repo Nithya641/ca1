@@ -10,3 +10,7 @@ case2:
 {
 printf("Aiml")
 }
+case3:
+{
+printf("ECE")
+}
