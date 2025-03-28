@@ -14,6 +14,7 @@ printf("Aiml")
 case3:
 {
 printf("ECE")
+printf("mec")
 }
 case4:
 {
