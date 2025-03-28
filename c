@@ -18,7 +18,10 @@ printf("ECE")
 case4:
 {
 printf("mechnical")
+printf("elecetric")
 }
+
+
 
 
 
