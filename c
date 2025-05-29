@@ -2,12 +2,12 @@
 void main()
 switch(c)
 {
-case1:
+course:
 {
 printf("Btech cse")
 printf("AUB")
 }
-case2:
+code:
 {
 printf("Aiml")
 }
